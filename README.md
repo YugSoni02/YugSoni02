@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Yug Soni!
+# 👋 Hi, I'm Yug Soni! <img width="480" height="480" alt="AnimationSmileGIF" src="https://github.com/user-attachments/assets/113062b8-4cf6-460e-ac29-8131449d3dd0" />
+
 
 ### Software Developer | Programmer | Technology Enthusiast | Lifelong Learner
 
